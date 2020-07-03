@@ -11,4 +11,4 @@ Project description.
 Project description.
 
 # Sample Image
-![](https://github.com/reshma64566/Portfolio/blob/master/images/Screen%20Shot%202020-07-03%20at%202.01.08%20PM.png)
+![](/images/Screen%20Shot%202020-07-03%20at%202.01.08%20PM.png)
